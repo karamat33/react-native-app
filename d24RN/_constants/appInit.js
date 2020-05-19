@@ -1,0 +1,6 @@
+export const initConstants = {
+    GET_INITDATA: "GET_INITDATA",
+    GET_INITDATA_SUCCESS: "GET_INITDATA_SUCCESS",
+    GET_INITDATA_ERROR: "GET_INITDATA_ERROR",
+  };
+  
